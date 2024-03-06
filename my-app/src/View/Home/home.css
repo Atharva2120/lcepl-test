@@ -1,0 +1,11 @@
+/*  This Is Home Page Css Code */
+
+.container{
+    display: block;
+}
+.row{
+    display: inline-flex;
+    width: 50%;
+    text-align: center  ;
+    justify-content: center;
+}
